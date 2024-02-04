@@ -24,7 +24,7 @@ Este projeto consiste em uma implementação de um Pokédex responsivo utilizand
 ## Demonstração
 ![Imagem de Demonstração](https://github.com/Jp0liveira/Pokedex/assets/106454449/397b10e5-8324-4680-9deb-0ff3c7e7e165)
 
-> Você pode visualizar uma demonstração ao vivo do projeto visitando [link-do-seu-projeto](https://jp0liveira.github.io/Pokedex/).
+> Você pode visualizar uma demonstração ao vivo do projeto visitando [link-do-projeto](https://jp0liveira.github.io/Pokedex/).
 
 ## Recursos
 
